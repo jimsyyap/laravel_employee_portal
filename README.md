@@ -10,3 +10,4 @@ at 59.18 of video
 error
     Illuminate\Contracts\Container\BindingResolutionException
     Target class [App\Http\Controllers\Backend\UserController] does not exist.
+    * fix - rename folder backend/ to Backend/
